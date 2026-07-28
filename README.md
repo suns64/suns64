@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suns64
 - 👀 I’m interested in software and robotic stuffs
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently building apps and websites
 - 📫 You may approach me by my email "sunzhengee@gmail.com"
 - 
 <!---
